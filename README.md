@@ -6,3 +6,8 @@ This project is another project I want to build, I want to add my favorite cars 
 managed to link the submit button and the submitted.html and fixed the submitted page will be adding more to it.
 
 <!-- will be addding a button for the official honda dealership and see if I want to put a button for the new event in JAPAN. -->
+
+had to move everything to another .HTML file: Cause of the issue? added a video file that was over 100MB
+NOTE: Do not use video file that is over 100MB can not commit to GitHub.
+video size is too big. instead go to youtube copy Embeded code to line of code. It will commit faster,
+as well as look better on Browser. 
